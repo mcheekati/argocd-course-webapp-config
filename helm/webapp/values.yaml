@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mcheekati/argocd-course-webapp
+  repository: goformurali/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 389086bf5d18cd6d59f77901649b29c6a0b67da2
